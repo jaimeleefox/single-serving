@@ -1,0 +1,50 @@
+html {
+	font: 100%/1.15 serif;
+	-ms-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+	}
+	
+body {
+	font-family: Bookman, serif;
+	background-color: #036;
+	color: #ccc;
+	}
+	
+header {
+	font-family: impact;
+	text-align: center;
+	font-size: 2.4em;
+	letter-spacing: .2em;
+	line-height: .9em;
+	margin: .2em;
+	}
+
+#author {
+	font-size: 1.2em;
+	}
+	
+#explanation {
+	line-height: 1em;
+	font-size: .6em;
+	letter-spacing: .1em;
+	}
+
+#names {
+	padding: 1.5em;
+	text-align: center;
+	columns: 9em 5;
+	column-gap: 3em; 
+	list-style-type: none;
+	font-size: 1.7em;
+	margin-left:.6em;
+	margin-right: .6em;
+	margin-top: .6em;
+	margin-bottom: .6em;
+	line-height: 1em;
+	}
+
+figure p:first-letter {
+	color: #f90;
+	font-size: 1.9em;
+}
+
